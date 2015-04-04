@@ -1,6 +1,6 @@
 {
   "name": "holiday-dates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retrieve the dates of special holidays or occasions",
   "main": "index.js",
   "scripts": {
