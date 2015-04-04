@@ -1,0 +1,23 @@
+{
+  "name": "holiday-dates",
+  "version": "1.0.0",
+  "description": "Retrieve the dates of special holidays or occasions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "main": "index.js",
+  "keywords": [
+    "holiday",
+    "occasion",
+    "date"
+  ],
+  "author": "C J Wainwright <chris@cjwainwright.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "require-all": "^1.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.2.1"
+  }
+}
