@@ -14,6 +14,10 @@
   ],
   "author": "C J Wainwright <chris@cjwainwright.co.uk>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjwainwright/holiday-dates.git"
+  },
   "dependencies": {
     "require-all": "^1.0.0"
   },
